@@ -6,7 +6,7 @@ My name is Matias and I'm Software Developer.
 
 * Working every day with Django & Django Rest Framework
 * Implementing all projects with Docker containers
-* Improving in JavaScript with libraries as ReactJS
+* Constantly using JavaScript (NodeJS, ReactJS, Svelte, ...)
 * Critical thinking, solving problems deducing and understanding the root cause
 * Learning at all times
 
