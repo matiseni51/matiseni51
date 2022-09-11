@@ -4,9 +4,8 @@ My name is Matias and I'm Software Developer.
 
 ### Skills :pushpin:
 
-* Working every day with Django & Django Rest Framework
-* Implementing all projects with Docker containers
-* Constantly using JavaScript (NodeJS, ReactJS, Svelte, ...)
+* Working every day with Python(django, drf, ...) & JavaScript(reactjs, svelte, ...).
+* Everything it's better with Docker containers.
 * Critical thinking, solving problems deducing and understanding the root cause
 * Learning at all times
 
