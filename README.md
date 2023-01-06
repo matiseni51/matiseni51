@@ -2,14 +2,20 @@
 
 My name is Matias and I'm Software Developer.
 
-### Skills :pushpin:
+#### Soft Skills :pushpin:
 
-* Working every day with Python(django, drf, ...) & JavaScript(reactjs, svelte, ...).
-* Everything it's better with Docker containers.
-* Critical thinking, solving problems deducing and understanding the root cause
-* Learning at all times
+* Critical thinking, solving problems deducing and understanding the root cause.
+* Learning at all times.
+* Always part of the team.
 
-Always using some debian fork as daily drive.
+#### Tech Stack :computer:
+* Python, Django, DjangoRestFramework
+* JavaScript, ReactJS, Svelte
+* PostgreSQL, MySQL, Informix
+* Git, BitBucket, GitLab, GitHub
+* Docker, Ubuntu, Nginx, Gunicorn, Celery, Redis
+* Jira
+
 <!---
 ### Contact :mailbox:
 
