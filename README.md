@@ -9,12 +9,10 @@ My name is Matias and I'm Software Developer.
 * Always part of the team.
 
 #### Tech Stack :computer:
-* Python, Django, DjangoRestFramework
-* JavaScript, ReactJS, Svelte
-* PostgreSQL, MySQL, Informix
-* Git, BitBucket, GitLab, GitHub
-* Docker, Ubuntu, Nginx, Gunicorn, Celery, Redis
-* Jira
+* Currently with Python & JavaScript.
+* SQL databases, at least for now.
+* Git, BitBucket, GitLab, GitHub.
+* Linux, docker & all that cool stuffs.
 
 <!---
 ### Contact :mailbox:
