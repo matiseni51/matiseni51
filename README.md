@@ -10,9 +10,7 @@ My name is Matias and I'm Software Developer.
 
 #### Tech Stack :computer:
 * Currently with Python & JavaScript.
-* SQL databases, at least for now.
-* Git, BitBucket, GitLab, GitHub.
-* Linux, docker & all that cool stuffs.
+* Linux, docker, pipelines & all that cool stuffs.
 
 <!---
 ### Contact :mailbox:
